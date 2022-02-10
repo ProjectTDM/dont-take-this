@@ -1,5 +1,5 @@
 # Don't take this! [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/tunakaniri/dont-take-this)
-![マイクラバージョン](https://img.shields.io/badge/Minecraft%20Ver-Java%201.17~1.18.1-brightgreen) ![タイプ](https://img.shields.io/badge/Type-datapack-orange) ![管理者権限](https://img.shields.io/badge/Need%20OP-None-lightgrey)
+![マイクラバージョン](https://img.shields.io/badge/Minecraft%20Ver-Java%201.13~1.18.1-brightgreen) ![タイプ](https://img.shields.io/badge/Type-datapack-orange) ![管理者権限](https://img.shields.io/badge/Need%20OP-None-lightgrey)
 
 エンダーマンがブロックを持っていかないようにするデータパック
 
