@@ -1,6 +1,6 @@
 {
     "pack": {
-      "pack_format": 8,
-      "description": "Enderman won't take the blocks. [Created by tunakaniri]"
+      "pack_format":10,
+      "description":"Enderman won't take the blocks. [Created by tunakaniri]"
     }
   }
