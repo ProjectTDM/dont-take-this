@@ -1,5 +1,5 @@
 # Don't take this! <!-- ![ダウンロード数](https://img.shields.io/github/downloads/tunakaniri/dont-take-this/total) -->
-![マイクラバージョン](https://img.shields.io/badge/Minecraft%20Ver-Java%201.13~1.20.2-brightgreen) ![タイプ](https://img.shields.io/badge/Type-datapack-orange) ![管理者権限](https://img.shields.io/badge/Need%20OP-None-lightgrey)
+![マイクラバージョン](https://img.shields.io/badge/Minecraft%20Ver-Java%201.13~1.19.4,1.20.2-brightgreen) ![タイプ](https://img.shields.io/badge/Type-datapack-orange) ![管理者権限](https://img.shields.io/badge/Need%20OP-None-lightgrey)
 
 - ~v1.0.0 1.17版
 - v1.1.0~ 1.19, 1.19.2版
